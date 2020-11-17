@@ -40,7 +40,7 @@ http://youtu.be/CEcqNyyv_kA
 [agpl-3]: http://www.gnu.org/licenses/agpl-3.0.txt
 
     nightguard app to display cgm readings on your ios and watchos device
-    Copyright (C) 2018 Nightguard contributors.
+    Copyright (C)2018 Nightguard contributors.
     
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
